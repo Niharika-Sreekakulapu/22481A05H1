@@ -57,6 +57,7 @@ It’s designed to **demonstrate React skills, component design, state managemen
 
 ### 1. Clone the Repository
 git clone https://github.com/Niharika-Sreekakulapu/22481A05H1/
+
 cd 22481A05H1
 
 ### 2. Install Dependencies
@@ -90,5 +91,3 @@ Niharika Sreekakulapu
 📧 Email : neeharikasreekakulapu@gmail.com
 
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
